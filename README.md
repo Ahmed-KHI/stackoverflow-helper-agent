@@ -33,7 +33,7 @@ Ask questions like:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/stackoverflow-helper-agent.git
+   git clone https://github.com/Ahmed-KHI/stackoverflow-helper-agent.git
    cd stackoverflow-helper-agent
    ```
 
@@ -136,8 +136,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-If you have any questions or issues, please [open an issue](https://github.com/yourusername/stackoverflow-helper-agent/issues) on GitHub.
+If you have any questions or issues, please [open an issue](https://github.com/Ahmed-KHI/stackoverflow-helper-agent/issues) on GitHub.
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Muhammad Ahmed]
